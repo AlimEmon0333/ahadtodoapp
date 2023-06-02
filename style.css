@@ -1,0 +1,73 @@
+body{
+    background-image: url(img/todobg.jpeg);
+}
+.navbar{
+    height: 60px;
+    background-color: lightskyblue;
+   
+}
+.input{
+    margin-left: 400px;
+}
+.input input{
+   width: 500px;
+    padding: 10px 10px;
+    font-size: 25px;
+    border-radius: 10px;
+    font-weight: bold;
+    
+}
+.button{
+    /* font-size: 25px; */
+ margin-left: 90px;  
+}
+.button1{
+    /* font-size: 25px; */
+ margin-left: 10px;  
+}
+.h1{
+    margin-left: 400px;
+    
+    display: flex;
+}
+.h2{
+    margin-left: 690px;
+}
+.input h1{
+    color: aqua;
+}
+.icon{
+    position: relative;
+    right: 179px;
+   bottom: 5px;
+    font-size: 36px;
+}
+.icon1{
+    position: relative;
+    right: 113px;
+    bottom: 5px;
+    font-size: 36px;
+}
+.foot{
+    background-color: lightslategrey;
+    margin-left: 300px;
+    border-radius: 10px;
+    width: 700px;
+    margin-top: 10px;
+    
+    /* padding: 10px; */
+}
+.foot li{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 40px;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: 15px;
+    /* padding-left: 10px; */
+}
+.foot button{
+    /* position: absolute; */
+    margin-left: 321px;
+    margin-right: -253px;
+}
